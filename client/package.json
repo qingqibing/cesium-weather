@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/immiao/cesium-weather#readme",
   "dependencies": {
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "cesium": "^1.40.0"
   },
   "devDependencies": {
